@@ -1,4 +1,4 @@
-# Panda3D-Game-for-CIS151-Final-Project-
+# Panda3D-Game-for-CIS151-Final-Project
 This program was coded by Chris Bonner.
 
 This program needs a couple of things to run.
